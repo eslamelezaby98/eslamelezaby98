@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eslamelezaby98
-- 👀 I’m interested in Mobile app developmentg
+- 👀 I’m interested in Mobile app development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me
 Twitter : https://twitter.com/eslamelezaby98
