@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m Eslam Elezaby
 - 👀 I’m interested in Mobile app development
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me
 Twitter : https://twitter.com/eslamelezaby98
 
