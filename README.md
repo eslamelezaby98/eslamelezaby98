@@ -1,4 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/85620139/129036018-40854b69-6802-4b50-a4db-a62831548a0a.gif)
 
 
 - 👋 Hi, I’m Eslam Elezaby
